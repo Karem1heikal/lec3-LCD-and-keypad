@@ -11,13 +11,15 @@ Display results on a 16x2 LCD.
 Functionalities:
 Read inputs from the keypad.
 Perform arithmetic operations.
+Provide handling signed number.
 Display the result on the LCD.
 Error Handling:
 Handle division by zero.
 Validate inputs to ensure they are numbers.
+
 Steps to Implement
 Set Up the Environment:
-Install Atmel Studio or any other preferred IDE.
+Install Eclipse IDE.
 Set up the AVR-GCC toolchain.
 Design the Circuit:
 Connect the keypad and LCD to the AVR microcontroller (e.g., ATmega32).
